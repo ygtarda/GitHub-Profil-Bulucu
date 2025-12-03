@@ -9,7 +9,7 @@ A responsive web application that utilizes the **GitHub REST API** to search for
 
 ## 🚀 Live Demo
 
-[>> Click here to view the Live Demo <<](https://ygtarda.github.io/github-profile-finder)
+[>> Click here to view the Live Demo <<](https://ygtarda.github.io/Github-Profil-Bulucu)
 ## 📸 Screenshot
 
 ![App Screenshot](./screenshot.png)
@@ -35,12 +35,12 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/ygtarda/github-profile-finder.git](https://github.com/ygtarda/github-profile-finder.git)
+    git clone [https://github.com/ygtarda/Github-Profil-Bulucu.git](https://github.com/ygtarda/Github-Profil-Bulucu.git)
     ```
 
 2.  **Navigate to the project directory**
     ```bash
-    cd github-profile-finder
+    cd Github-Profil-Bulucu
     ```
 
 3.  **Open `index.html`**
